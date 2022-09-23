@@ -1,1 +1,2 @@
 # odin-recipes
+My first project for The Odin Project will be webpage displaying different cooking recipes. In this project I will create a webpage using the skills of html I have so far learned which include different styles of words, links and images.
